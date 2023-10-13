@@ -1,0 +1,1 @@
+Budilka.Models.HostBuilder.CreateHostBuilder(args).Build().Run();
